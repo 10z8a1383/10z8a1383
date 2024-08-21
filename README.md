@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @10z8a1383
+- 👋 Hi, I’m alma
 - 👀 I’m interested in IOT and Webdesign
 - 🌱 I’m currently learning Programing 
 - 💞️ I’m looking to collaborate on ...
